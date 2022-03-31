@@ -1,0 +1,49 @@
+{
+  "name": "PWA Stageo",
+  "short_name": "StageoMobile",
+  "descripton": "Stageo is a tool that will help students to find internships and companies to find intern ",
+  "start_url": "/index.php",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#6952eb",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "/img/maskable_icon_x48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/img/maskable_icon_x72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "/img/maskable_icon_x96.png",
+      "type": "image/png",
+      "sizes": "96x96",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/img/maskable_icon_x128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/img/maskable_icon_x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/maskable_icon_x384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "/img/maskable_icon_x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+    
+}
